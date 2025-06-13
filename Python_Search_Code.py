@@ -1,7 +1,7 @@
 #Python_Search_Code
 
 
-from Flask import Flask, '''request, render_template'''
+from Flask import Flask, request, render_template
 import wikipedia
 
 
