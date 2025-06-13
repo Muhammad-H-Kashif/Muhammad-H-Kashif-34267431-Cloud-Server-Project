@@ -5,6 +5,12 @@ from flask import Flask, request, render_template
 import wikipedia
 
 
+git clone https://github.com/projectmesa/mesa mesa_repo
+cd mesa_repo
+pip install `pwd`
+
+
+
 app = Flask(__name__)
 
 
