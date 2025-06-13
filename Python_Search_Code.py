@@ -1,8 +1,8 @@
 #Python_Search_Code
 
 
-from flask import Flask, request, render_template
-import wikipedia
+from flask import Flask, request, render_template;
+import wikipedia;
 
 
 '''
