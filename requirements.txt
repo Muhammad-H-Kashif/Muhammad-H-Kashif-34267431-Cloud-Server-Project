@@ -1,3 +1,3 @@
-from flask import Flask, request, render_template
-import wikipedia
-
+Flask == 3.1.1
+Wikipedia== 1.4.0.
+SQLAlchemy==0.7.1
