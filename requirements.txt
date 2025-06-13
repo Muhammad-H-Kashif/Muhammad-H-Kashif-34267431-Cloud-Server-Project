@@ -1,6 +1,6 @@
--Python == 3.12.2 ;
 -Flask == 3.1.1 ;
 -Wikipedia == 1.4.0 ;
+-Python == 3.12.2 ;
 -SQLAlchemy == 0.7.1 ;
 -requests [security] >= 2.8.1, == 2.8.* ;
 git+https://github.com/pandas-dev/pandas@v1.4.4
