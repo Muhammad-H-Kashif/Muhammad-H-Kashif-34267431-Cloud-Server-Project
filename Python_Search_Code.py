@@ -3,7 +3,6 @@
 
 from flask import Flask, request, render_template
 import wikipedia
-import requests
 
 
 app = Flask(__name__)
