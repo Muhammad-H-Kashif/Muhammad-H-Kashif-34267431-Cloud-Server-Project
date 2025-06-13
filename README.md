@@ -7,13 +7,17 @@ Server Documentation
 My project is a Wikipedia Search App, basically this will allow users to type in querries and that querry will be put through a collected module that stores wikipedia's data, listed down into a simple paragraph which will than be returned to the user. 
 
 Psudocode and Logic:
+
 Python: 
 
 For this project I will need several modules: Flask, requests, render template and wikipedia
 
 Flask is a basic Python Web Framework that can be used to make beginner to intermediate level web projects; it lacks Django's capabilities but is much more intuitive to learn and use at least for beginners. 
+
 The Request Module is a used for making HTTP requests, it allow for interaction with web services by allowing users to type in simple requests rather than go of the trouble of having to write longer code for it.
+
 render_template is basically my HTML file which will be brought here for ease of formatting. 
+
 wikipedia is the module that has saved the data of wikipedia and allows users to access it and manipulate it to do what they want.
 
 
