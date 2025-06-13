@@ -1,11 +1,5 @@
-dependencies:
--Python == 3.12.2
--Flask == 3.1.1
--Wikipedia == 1.4.0
--SQLAlchemy == 0.7.1
--requests [security] >= 2.8.1, == 2.8.* ; python_version < "2.7"
--pip:
- -xarray
- -urllib3 @ https://github.com/urllib3/urllib3/archive/refs/tags/1.26.8.zip
- -git+https://github.com/pandas-dev/pandas.git@v1.4.4     
- -pandas @ git+https://github.com/pandas-dev/pandas.git@v1.4.4     
+-Python == 3.12.2 ;
+-Flask == 3.1.1 ;
+-Wikipedia == 1.4.0 ;
+-SQLAlchemy == 0.7.1 ;
+-requests [security] >= 2.8.1, == 2.8.* ;
