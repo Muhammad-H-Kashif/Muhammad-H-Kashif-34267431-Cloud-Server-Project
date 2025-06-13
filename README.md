@@ -24,17 +24,6 @@ wikipedia is the module that has saved the data of wikipedia and allows users to
 
 
 
-
-HTML 
-
-
-
-Total Cost of Ownership
-
-
-
-
-
 Citations Inspirations and How they were Incorporated into my Project:
 
 S.Mcconnell, Code Complete, 2nd Edition: 
